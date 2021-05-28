@@ -17,7 +17,7 @@ Try out Mattermost:
 
 Deploy on Heroku 
 
-[![Deploy a Preview](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mattermost/mattermost-heroku)
+[![Deploy a Preview](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lucasdeboer84/mattermost-heroku)
 
 _Note: Heroku preview does not include email or persistent storage_
 
